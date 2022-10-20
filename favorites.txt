@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Tacos
 Pizza
 Tortas
+=======
+The Fast and the Furious
+Spider-man
+Iron man
+>>>>>>> movies
